@@ -23,5 +23,6 @@ public class Menu {
         System.out.println("========================================");
         System.out.println("    Thank you for dining with us!");
         System.out.println("========================================");
+        //TODO: Add seasonal menu
     }
 }
